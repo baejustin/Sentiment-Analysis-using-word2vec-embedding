@@ -9,7 +9,6 @@ https://www.kaggle.com/c/word2vec-nlp-tutorial/data
 `torchtext==0.5.0` <br>
 `nltk==3.5` <br>
 `matplotlib` <br>
-`cv2` <br>
 
 ## Experiment with 5 different recurrent approaches
 
